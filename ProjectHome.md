@@ -1,0 +1,5 @@
+This is the starter file that we use at inRESONANCE to start new projects. It contains UI elements and utilities that are of general use for all of the FileMaker projects that we create - both in house proprietary solutions, and custom solutions for customers.
+
+Given the nature of development with a binary file format, I'm not sure exactly how we're going to manage collaboration on this project. As far as I know we can't do binary code merges with FileMaker Pro files (please correct me if I am wrong!). For the moment, I'm the only one doing commits to the repository. Please download the trunk and take a look - submit bugs and feature requests and I'll do my best to address them quickly.
+
+We're releasing this template as open source as part of our [inRESONANCE Developer Community](http://www.inresonance.com/help/index.php?n=IR.IRDevCamp2009MeetingAnnouncement) where FileMaker developers from the independent and international school communities come together to exchange ideas and get projects started together.
